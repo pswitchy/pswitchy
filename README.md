@@ -13,7 +13,7 @@
 🛠️ **Backend:** Node.js 🌿, Express.js ⚡, Django 🐍  
 🗄️ **Databases & ORMs:** PostgreSQL 🐘, Prisma ORM 🔄, MongoDB 🍃, Firebase 🔥  
 📱 **Mobile:** React Native 📱  
-⚡ **Languages:** JavaScript 🟡, TypeScript 🔵, Python 🐍, C++ 💙, Rust 🦀  
+⚡ **Languages:** Java 🟡, TypeScript 🔵, Python 🐍, C++ 💙, Rust 🦀  
 ☁️ **DevOps & Cloud:** Docker 🐳, AWS ☁️, Vercel 🚀  
 
 ### 📈 Currently Learning:  
